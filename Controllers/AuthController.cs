@@ -45,5 +45,14 @@ namespace TestACSApp.Controllers
         {
             int i = 0;
         }
+
+        //public class SimpleIssuerRegistery : System.IdentityModel.Tokens.ValidatingIssuerNameRegistry
+        //{
+        //    //public override string GetIssuerName(System.IdentityModel.Tokens.SecurityToken securityToken, string requestedIssuerName)
+        //    //{
+        //    //    var ret = base.GetIssuerName(securityToken, requestedIssuerName);
+        //    //    return ret;
+        //    //}
+        //}
     }
 }
