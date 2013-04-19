@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestACSApp", "TestACSApp.csproj", "{DC8CCEC2-147C-48A0-AF1F-6674366E377B}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "CloudTest", "..\CloudTest\CloudTest.ccproj", "{4E60367A-5270-4EB8-97AC-AD6DD2D0104B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8CCEC2-147C-48A0-AF1F-6674366E377B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8CCEC2-147C-48A0-AF1F-6674366E377B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8CCEC2-147C-48A0-AF1F-6674366E377B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8CCEC2-147C-48A0-AF1F-6674366E377B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E60367A-5270-4EB8-97AC-AD6DD2D0104B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E60367A-5270-4EB8-97AC-AD6DD2D0104B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E60367A-5270-4EB8-97AC-AD6DD2D0104B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E60367A-5270-4EB8-97AC-AD6DD2D0104B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
